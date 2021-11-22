@@ -4,4 +4,4 @@
 
 ### Wakatime weekly stats ###
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ojaoc&theme=gotham&layout=compact&v=2&hide_title=1)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ojaoc&theme=gotham&hide_title=1&v=2)](https://github.com/anuraghazra/github-readme-stats)
